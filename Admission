@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admission form</title>
+</head>
+<body>
+    <from action="">
+        <h3>LOREM IPSUM DOLOR</h3>
+        <p>reg no: <input type="number" name="number" id="number"></p>
+        <p>Date of issue: <input type="date" name="date" id="date"></p>
+        <th><h2>ADMISSION FROM</h2></th>        
+        <hr>
+        <p>surname: <input type="text" name="surname" id="surname"></p>
+        <p>name: <input type="name" name="name" id="name"></p>
+        <p>father's name: <input type="text" name="name" id="name"></p>
+        <p>mother's name: <input type="text" name="name" id="name"></p>
+        <p>Adhar card_number: <input type="text" name="card_number" id="card_number"></p>
+        <p>
+           date of birth: <input type="date" name="date" id="date"></p>
+          <h4>Gender</h4>
+          <p>
+            male: <input type="checkbox" name="male" id="male"> female: <input type="checkbox" name="female" id="female">
+            Phone no: <input type="text" name="Phone no" id="Phone no">
+          </p>
+          <p>
+            Place of birth: <input type="text" name="name" id="name">
+            </p>
+            <p>
+                city: <input type="text" name="city" id="city"> dist: <input type="text" name="dist" id="dist">
+            </p>
+            <p>
+                state: <input type="text" name="state" id="state">
+            </p>
+            <p>
+                physical problems/Disbility(if any): <input type="text" name=Disbility"" id="Disbility">
+            </p>
+            <p>
+                name of school: <input type="text" name="scholl" id="scholl">
+            </p>
+            <hr>
+            <h3>UNDERTAKING</h3>
+            <P>
+                Lorem ipsum dolor sit amet:
+            </P>
+            <p>A.consectetur adipiscing elit. Morbi rhocus,lorem inerdum porta consequat,east magna luctus diam,quis semper justo mauris at metus.</p>
+            <p>
+                B. Done convallis accumsan mattis. prasent tempus ante eget diam iaculis, id posuereenim tempus.
+            </p>
+    </from>
+</body>
+</html>
